@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Square from "./Square";
 
 // squares là mảng 9 phần tử đại diện cho 9 ô theo thứ tự từ trái sang phải, từ trên xuống dưới
